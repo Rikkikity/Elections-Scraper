@@ -1,10 +1,11 @@
 # Popis programu
-Program extrahuje data z vybraného okrsku voleb do Poslanecké sněmovny z roku 2017. Odkaz: https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
+Program extrahuje data z vybraného okrsku voleb do Poslanecké sněmovny z roku 2017. [Odkaz](https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)
 
 # Jak nainstalovat potřebné knihovny
 Potřebné knihovny, které program využívá, jsou uloženy v přiloženém dokumentu requirements.txt. Pro instalaci je vhodné použít nové virtuální prostředí a následně spustit pomocí příkazu:
 
 $pip -- version                         #ověření verze manažeru
+
 $pip install -r requirements.txt       #nainstaluje knihovny
 
 # Jak spustit program
